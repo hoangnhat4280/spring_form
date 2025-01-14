@@ -1,4 +1,4 @@
-package com.example.git iformtutorial.controller;
+package com.example.springformtutorial.controller;
 
 import com.example.springformtutorial.model.Employee;
 import org.springframework.stereotype.Controller;
